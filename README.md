@@ -1,9 +1,10 @@
-# Exercise: DOM Exercises - 3 (Array Manipulation Exercises)
+# Exercise: DOM Exercises - 3 
+# (Array Manipulation Exercises)
 
 This project contains a series of array manipulation exercises implemented using HTML, CSS, and JavaScript. It provides a practical way to understand and practice fundamental array concepts, focusing on array methods, conditional logic, and dynamic content updates.
 
 ## Live Demo:
-[Click here](Link to your live demo, e.g., Vercel, Netlify)
+[Click here](https://basic-js-3.vercel.app/)
 
 ## Table of Contents
 
